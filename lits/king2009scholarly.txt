@@ -1,0 +1,1933 @@
+Donald W. King et al.
+
+126
+
+Learned Publishing, 22, 126–144
+doi:10.1087/2009208
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+Donald W. King et al.
+LEARNED PUBLISHING VOL. 22 NO. 2 APRIL 2009
+
+RESEARCH ARTICLE
+
+I
+
+Scholarly journal
+
+ntroduction
+
+Faculty and students were surveyed at
+five US universities, as part of an Institute of Museum and Library Service
+(IMLS) grant to the University of Tennessee, School of Information Sciences.1 The
+purpose of the study, entitled ‘Maximizing
+Library Investments in Digital Collections
+Through Better Data Gathering and Analysis (MaxData)’ was to examine alternative
+means of collecting journal and article usage
+metrics including readership surveys, local
+server hits and downloads, data provided by
+various vendors, and deep log analysis
+(by CIBER, University College London) of
+electronic journal usage data collected by
+OhioLINK. The findings were intended to
+enable librarians to learn what conclusions
+can be drawn from each metric, the
+strengths and weaknesses of each one, how
+Donald W.
+they complement one another, and what
+King
+conclusions can be drawn if only one source
+of data is available. This article addresses
+the survey of faculty of the five universities.
+The following question was asked to place
+journal information-seeking and reading
+patterns in context: ‘What sources did you
+use for the last substantive piece of information you used for work? (Select all that
+Carol Tenopir
+apply).’ Results are shown in Figure 1.
+Clearly, journal articles dominate as a
+source of information used by faculty for
+work. It is significant that websites are used
+for about one-third of the time, although the
+type of website information is not established.
+Songphan
+An important aspect of journal informaChoemprayong tion-seeking and reading is that readers
+sometimes know about the information
+reported or discussed in an article prior to
+reading it for the first time. In fact, readers
+said that they knew about the information in
+nearly half of the articles they last read
+(49.5%). The readers first found out about
+the information from the sources shown in
+Figure 2.
+Lei Wu
+
+LEARNED PUBLISHING
+
+information-seeking
+and reading patterns
+of faculty at five
+US universities
+Donald W. KING*, Carol TENOPIR†,
+Songphan CHOEMPRAYONG* and Lei WU†
+*School of Information and Library Science, University
+of North Carolina at Chapel Hill, USA
+†School of Information Sciences, University of
+Tennessee, USA
+© Donald W. King, Carol Tenopir,
+Songphan Choemprayong and Lei Wu 2009
+
+ABSTRACT. Surveys at five US universities show that
+faculty read articles for research, teaching, writing, and
+other purposes; the largest number of readings is for
+research. The time spent reading scholarly articles (an
+estimated average of 132 hours and 240 articles per year)
+demonstrates their value to faculty’s work; over one-third
+of readings are reported to be absolutely essential, and to
+affect the reader’s purpose in many ways, including helping
+to improve results, or to broaden or change the focus.
+Faculty prefer print for personal subscriptions, although
+library electronic collections provide a majority of readings,
+and most readings from library collections are from
+electronic sources; older articles are also more commonly
+from electronic library collections. Faculty use a variety of
+means to find articles, including browsing and searching,
+the latter particularly for research purposes, and to locate
+older articles. Faculty members who publish more, or who
+have won awards, read more articles on average than their
+less productive or successful colleagues.
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+127
+
+Figure 1. Sources
+used by faculty for
+their last substantive
+piece of information
+for work
+(n= 1,041).
+
+Again, journal articles are found to be an
+important source of information. However, it
+is clear that information is communicated
+through many channels with articles being
+only a single channel in this information
+flow, although an important one. Various
+authors describe the flow of research information from discovery through oral and written
+reporting over time, with journal articles
+being somewhat down the chain in time.2–5
+Prior research
+Voluminous prior research has examined
+multiple aspects of information-seeking and
+reading patterns. Those studies that focus
+
+specifically on scholarly article reading are
+summarized in several literature reviews.6–10
+The research literature is well covered in
+these reviews; this article therefore does not
+attempt to review all of the many hundreds
+of specific scholarly reading studies. In addition, there is a vast literature on how
+individual differences influence the adoption
+of technology; this topic is outside the scope
+of the present article.11
+The literature that explores how differences in situation and context influence
+information-seeking patterns is also vast;
+factors such as motivation or purpose of a
+search have been shown to play a role in
+information-seeking behaviors.12–15 Most
+
+journal articles
+are found to be
+an important
+source of
+information
+
+Figure 2. How faculty
+became aware of
+information, prior to
+reading about it in the
+last article read
+(n = 537).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+respondents
+were asked to
+focus on the
+specific article
+they had read
+most recently
+
+studies do not focus on the act of scholarly
+article reading, but rather on the information-seeking process; however, many studies
+do demonstrate that the same individual
+may exhibit many different informationseeking patterns, depending on the purpose
+for which the information is needed.
+Although this article aggregates findings,
+there are certainly some differences across
+demographic characteristics of readers. Differences in reading patterns result most
+often from differences in academic disciplines,16,17 followed by readers’ primary
+duties (teaching or research),9 their productivity (faculty who publish more, read
+more),5 and their age (older faculty are more
+likely to read print and to have more personal subscriptions).18,19
+Limited availability of training, e-journals,
+and computing infrastructure may be a barrier to the use of e-journals, thus affecting
+user behavior.20 In the universities studied
+here, that was not the case as all had access
+to substantial print and electronic journals
+collections from their libraries, and robust
+technological infrastructure from their universities.
+Method
+Self-reported data on scholarly article reading were collected through a Web-based
+survey to faculty members (academic staff)
+at five universities in the United States
+(University of Akron, Ashland University,
+Case Western Reserve University, Malone
+College, and University of Tennessee).
+Three of the five are research-extensive or
+-intensive (Ph.D.-granting) universities, and
+two award masters’ degrees. Together the
+five universities include academic programs
+in all major areas, including medicine and
+other health-related fields, engineering, sciences (including all major life and physical
+sciences), social sciences (including law,
+business, and education), and humanities
+(including arts, literature, and history). All
+have extensive print and electronic journal
+collections with robust computing infrastructure; hence availability and access to
+scholarly journals was not a problem for any
+of the faculty respondents.
+In most cases, a random sample of faculty
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+members at each university received an email
+from the university librarian with an embedded link to the Web-based survey instrument
+housed on the University of Tennessee
+server. A follow-up email and, in some cases,
+announcements of the survey in various
+library-originated university publications or
+meetings helped to increase the response
+rate to a level of between 19% at one university and over 40% at two universities.
+Surveys were distributed in October–
+November 2005. Respondents could skip
+any question or exit the survey at any time.
+All responses were anonymous, with no
+identifying information recorded. In all,
+1,307 faculty members responded to at least
+some of the questions. The questions asked
+in all of the university surveys were for the
+most part the same, in the same order. Small
+variations were made in the demographic
+question on academic discipline, to reflect
+the subject departments within a particular
+university, and in the question on the ‘source’
+of a reading, to reflect the names given to
+the online catalogs and systems of each
+specific university. All of these responses
+were recoded consistently to enable analysis.
+All the survey instruments and details of
+each individual university’s responses are
+available at http://web.utk.edu/~tenopir/
+research/ survey_instruments.html
+In addition to standard demographic questions about the respondent’s age, gender,
+and subject discipline, the majority of questions focused on scholarly journal reading
+and use, beginning with a single recollection
+question of how many scholarly articles they
+had read in the past month. Respondents
+were then asked to focus on the specific article they had read most recently. This
+variation of the critical incident technique21
+asks detailed questions relating to the last
+reading and improves the likelihood that
+respondents will remember specific information. The unit of observation thus becomes a
+reading of a scholarly article, and the universe of readings being sampled is all
+readings by the faculty population over the
+past month. A two-stage sample is taken,
+where the first stage is the readers and the
+second stage is the critical incident of one
+reading, which is assumed to be ‘random’ in
+time.22,23
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Donald W. King et al.
+
+128
+
+Questions about the last article read provide relevant cross-classifications such as
+how older articles are identified and obtained; the format of personal subscription
+and library-provided articles that are read;
+and the purposes of reading from personal
+subscriptions, library-provided articles, and
+articles obtained from author websites.
+Scholarly journal information-reading
+patterns
+Questions on information-reading patterns
+covered the amount of reading, time spent
+reading, thoroughness of the reading, whether
+the last reading was a re-reading of the article, purpose of reading, and outcomes from
+reading. Faculty were asked just one recollection question: the total number of articles
+they had read in the past month. All other
+questions related to the last article reading.
+Reading is defined as follows:
+In the past month (30 days), approximately how many scholarly articles have
+you read? Articles can include those found
+in journal issues, websites, or separate copies such as preprints, reprints, and other
+electronic or paper copies. Reading is defined as going beyond the table of contents, title, and abstract to the body of the
+article.
+This definition has been used in over 50
+surveys since the mid-1970s, with minor
+changes to reflect changes in technology.24–28 Changes in the results over time are
+
+129
+
+not included here, but are described in detail
+in a forthcoming article.29
+Amount of reading and time spent reading
+Of 1,307 faculty member respondents, only
+1.5% said they had not read an article in the
+past month. The range of articles read in the
+past month is highly skewed, as shown in
+Figure 3.
+The extensive reading by some may reflect
+occasional in-depth literature reviews, but
+also includes regular scanning of the literature to keep current.
+The average number of readings is 22.6
+readings per month (or about 271 annual
+readings if we assume reading is evenly
+spread throughout the year), or 20 readings
+(240 readings per year) if outliers are
+excluded. These results reflect readings and
+not articles read, since some articles are read
+multiple times by faculty. For example,
+20.3% of the last readings were from an article that had been previously read, although
+the number of previous readings of each
+article was not determined.
+Readers were asked how thoroughly they
+read the last article and how much time they
+spent reading it. Most said they read the
+article with great care (42.9% of readings) or
+with attention to the main points (50.6%),
+but only 6.4% of the readings were said to be
+just to get the idea. The average time spent
+reading the last article was 33.1 minutes; for
+half of the readings it was 25 minutes or less.
+Nearly 10% of the readings were 3 hours or
+
+faculty average
+about 132
+hours per year
+reading
+scholarly
+articles
+
+Figure 3. Number of
+articles read in the
+past month (n =
+1,023).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Donald W. King et al.
+
+Figure 4. Principal
+purpose of reading
+the last article
+(n = 1,062).
+
+more. Faculty’s time, of course, is one of
+their most important resources and, therefore, the time spent reading scholarly journal
+articles is an indicator of the value they
+place on the information obtained. Faculty
+average about 132 hours per year reading
+scholarly articles; the figure is even higher
+when the time required to identify and
+obtain the articles is also taken into account
+(see below).
+Purpose and outcome of reading
+Another indicator of the usefulness and
+value of information gained from reading is
+the purpose of reading, and the ways in
+
+which the information affects these purposes. Respondents were asked: ‘For what
+principal purpose did you use, or do you plan
+to use, the information obtained from the
+article you last read? (Choose only the one
+best answer).’ The results are shown in
+Figure 4.
+Nearly all the readers (99.5%) thought
+the reading of the article had some effect on
+their principal purpose. Ways in which their
+principal purpose was affected are depicted
+in Figure 5.
+Readers were then asked how important
+the information in the article was in achieving the principal purpose. The results are
+shown in Figure 6.
+
+Figure 5. Ways in
+which the last
+reading affected the
+principal purpose of
+reading (n = 1,049).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+130
+
+131
+
+Figure 6. Rating of
+how important the
+last reading was in
+achieving the
+principal purpose of
+reading (n = 1,052).
+
+The information obtained from reading
+scholarly articles is clearly important to
+scholars’ work.
+Scholarly journal information-seeking
+patterns
+Readers identify and obtain articles using a
+variety of methods and sources. They
+become aware of articles they read by browsing journals to which they have access
+through personal or library subscriptions; by
+searching the literature and then obtaining
+articles from library collections or other
+sources (library electronic collections in fact
+provide a majority of readings); by reading
+about them in the literature; or through
+someone telling them about the articles.
+Reading patterns vary substantially, depending on how readers identify articles and the
+sources used to obtain them. Other aspects
+
+of information-seeking include the format
+used to obtain and read articles, and the
+location at which the articles are read. The
+preferred format and location reflect the
+time and effort needed to use them. The age
+of the articles read is also an important
+aspect of information-seeking; older articles
+require special information-seeking methods.
+All of these aspects of information-seeking
+affect, or are affected by, the usefulness and
+value of the article information content (see
+below).
+
+older articles
+require special
+informationseeking methods
+
+How readers become aware of articles
+Readers most often become aware of articles
+through browsing (e.g. starting with a journal title, journal issue, or table of contents)
+or through online searching (in person or by
+someone on their behalf) by subject or by
+author’s name. Other means by which readFigure 7. How
+faculty became aware
+of the last article they
+read (n = 1,059).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Donald W. King et al.
+
+Figure 8. Source and
+format of articles read
+from browsing
+(n = 378).
+
+browsing from
+electronic
+sources appears
+to take less time
+than browsing
+print versions
+
+ers become aware of articles they read are
+shown in Figure 7 as a percentage of readings.
+The journal sources browsed (e.g. personal
+or library subscriptions) vary according to
+format, as shown in Figure 8.
+Most browsing is from a print version of
+articles (61.4%), which reflects the fact that
+print personal subscriptions continue to be
+preferred by faculty readers, even though
+electronic versions are available for many
+scholarly journals. In fact, almost all reading
+from personal subscriptions tends to be of
+print versions. Faculty have on average 2.38
+personal subscriptions to print-only journals,
+0.62 subscriptions to electronic-only journals, and 1.07 subscriptions to journals that
+offer both versions. (Personal subscriptions
+are those that are personally addressed to
+the individual at his or her home, office, or
+laboratory.)
+
+The format of browsing has a bearing on
+the amount of time spent identifying an
+article. The average time spent browsing is
+6.9 minutes per reading. Since about 86
+readings on average per reader are from
+browsing (i.e. 35.7% of 240 annual readings), about 9.9 hours a year are spent by
+faculty readers browsing for articles. The
+time spent depends on format, and on
+whether the article is found from a personal
+or library subscription. Generally, browsing
+from electronic sources appears to take less
+time than browsing print versions (6.7 vs.
+7.1 minutes), although this varies slightly
+according to the source, as shown in Figure
+9. Where browsing takes place may also
+have some bearing on browsing time.
+Most reading as a result of online searching (58.3% of such readings) is from searches
+in electronic abstracting and indexing
+
+Figure 9. Average
+time spent per
+browsed reading, by
+subscription format
+(n = 326).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+132
+
+133
+
+Figure 10. Online
+sources used to
+identify the last
+article read
+(n = 229).
+
+(A&I) services such as Academic Search
+Premier, ERIC, PsycINFO, etc. Interestingly,
+print A&I products continue to be searched,
+although for a very small percentage of readings (1.7%). Other sources of online searches
+are given in Figure 10.
+Readers (or someone on their behalf such
+as a student, assistant, or librarian) also
+spend time finding articles identified by
+searching, with an average time spent on
+retrieval of 5.3 minutes. About one-quarter
+(i.e. 64, or 26.7% of 240) of yearly readings
+on average are found by searching. This
+means that readers average about 5.6 hours
+per year searching for articles, in addition to
+9.9 hours browsing and 132 hours reading –
+a total of 147.5 hours.
+Sources used to obtain articles
+Most articles are read from journals to which
+
+the reader has access via a personal or library
+subscription; they may also be accessible
+through school or departmental subscriptions (which are often supported by the main
+library), or articles may be requested via
+interlibrary loan or a document delivery
+service. Other sources include an author
+website or a copy provided by someone else
+such as a colleague or the author. The percentages of readings from these sources are
+shown in Figure 11.
+More article readings are from electronic
+sources than from print (54.4% vs. 45.6%).
+However, as shown in Figure 12, readings
+from personal subscriptions continue to be
+primarily from print versions (87.4% print
+vs. 12.6% electronic). On the other hand,
+most library-provided articles are read from
+electronic versions (71.2% electronic vs.
+28.8% print). More readings from other
+
+more article
+readings are
+from electronic
+sources than
+from print
+
+Figure 11. Source of
+the last article read
+(n = 1,075).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Figure 12. Format of
+articles read from
+personal
+subscriptions,
+library-provided
+articles or other
+sources (n = 1,081).
+
+electronic
+versions
+are largely
+downloaded
+and printed out
+for reading
+
+sources tend to be read in electronic format
+(68.5% electronic vs. 31.5% print).
+Print versions include reading from an
+issue (80.3% of readings from print format),
+photocopy (19.2%), and fax (0.5%). Electronic versions are largely downloaded and
+printed out for reading (68.7% of readings
+from electronic format), but some reading
+also takes place online (23.0%) or from previously downloaded/saved articles that are
+later read on a computer screen (8.3%).
+
+(30.8%). Very little faculty reading is carried
+out in a library (5.4%). Some reading is done
+while traveling (3.6%) or in another location
+(0.9%). 84.2% of the reading that does takes
+place in libraries is in print, vs. 15.8% in
+electronic format; however, most reading of
+library collections is done elsewhere from
+electronic versions and, as shown later, this
+practice results in an annual average time
+saving of about a day for each reader.
+Age of the last article read
+
+Location of the reader
+Faculty usually read articles in their office or
+laboratory (59.3% of readings) or at home
+
+Many of the last articles read were published
+prior to 2005, when the survey was conducted. In fact two articles were published
+
+Figure 13. Age of the
+last article read
+(n = 1,103).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Donald W. King et al.
+
+134
+
+from 32.8% for 2005 articles to 11.7% of
+those published prior to 1996; those found
+through citations fell from 27.2% for
+pre-1996 articles to 20.5% for 2005 articles;
+and those identified by other individuals
+dropped from 47.6% for 2005 articles to
+7.5% for pre-1996 articles.
+Table 3 shows where readers obtained the
+articles read, by the age of the articles. Articles published in 2005 were most often
+provided by libraries (44.8% of readings of
+these articles); however, as articles get older,
+libraries become an increasingly important
+source while reading from personal subscriptions diminishes. The percentage of reading
+from other sources (i.e. copies from authors,
+colleagues, and others; free Web journals;
+preprint copies, etc.) remains about the
+same regardless of age. Where articles are
+found by browsing, most come from personal
+subscriptions regardless of the age of the
+
+around 60 years earlier (1943 and 1947).
+Both of these were found from citations in
+other articles and then obtained from a print
+library copy. The percentage of readings by
+age of article is given in Figure 13.
+How articles are identified, and where
+they are obtained, is affected by their age, as
+shown in Tables 1–3. As Table 1 shows, articles published in 2005 (prior to October/
+November when the survey was done) were
+largely identified through browsing (56.3%),
+but the older the articles were, the more
+likely they were to be identified by other
+means. Articles published prior to 1996 were
+mostly identified through citations (46.5%)
+and searching (32.3%).
+Table 2 provides another way of looking at
+the same data: 72.6% of articles found by
+browsing were recently published, diminishing to 1.9% for articles published prior to
+1996. Articles found by searching decreased
+
+135
+
+articles
+published prior
+to 1996 were
+mostly
+identified
+through
+citations and
+searching
+
+Table 1. Proportion of readings of articles of different ages, by how readers became aware of them (n = 1,001)
+Year published
+2005
+2004
+2001–3
+1996–2000
+Prior to 1996
+
+How readers became aware of articles (%)
+Browsing
+
+Searching
+
+Citation
+
+Another person
+
+Total
+
+56.3
+26.8
+22.8
+17.6
+7.1
+
+18.6
+33.8
+38.0
+38.5
+32.3
+
+7.0
+18.3
+20.7
+24.2
+46.5
+
+18.1
+21.1
+18.5
+19.8
+14.1
+
+100
+100
+100
+100
+100
+
+Table 2. Proportion of readings by the various means that readers became aware of them, by age of article (n = 1,001)
+Year published
+2005
+1996–2004
+Prior to 1996
+Total
+
+How readers became aware of articles (%)
+Browsing
+
+Searching
+
+Citation
+
+Another person
+
+72.6
+25.5
+1.9
+100
+
+32.8
+55.5
+11.7
+100
+
+20.5
+52.3
+27.2
+100
+
+47.6
+44.9
+7.5
+100
+
+Table 3. Source of articles read, by age of article (n = 1,094)
+Year published
+2005
+2004
+2001–3
+1996–2000
+Prior to 1996
+
+Source of last-read article (%)
+Personal subscription
+
+Library-provided
+
+Other
+
+Total
+
+36.3
+15.8
+14.9
+8.3
+5.7
+
+44.8
+65.1
+65.6
+71.9
+73.6
+
+18.9
+19.1
+19.5
+19.8
+20.7
+
+100
+100
+100
+100
+100
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Table 4. Format of articles read, by age of article (n = 1,092)
+Year published
+2005
+2004
+2001–3
+1996–2000
+Prior to 1996
+
+the library is a
+particularly
+important
+source for
+research
+
+Format of last-read article (%)
+Print
+
+Electronic
+
+Total
+
+50.5
+36.2
+37.6
+36.8
+57.5
+
+49.5
+63.8
+62.4
+63.2
+42.5
+
+100
+100
+100
+100
+100
+
+articles (79.7% of articles published in 2005,
+as opposed to 69.8% of those published prior
+to 2004). This demonstrates the continued
+importance of print personal subscriptions,
+particularly for browsing.
+Retrospective conversion of print journals
+to electronic format has had an important
+impact on information-seeking. The format
+of reading by age of article is given in Table
+4. While reading of print and electronic versions is about equal for articles published in
+2005, articles from the preceding nine years
+(1996–2004) are more often read in electronic format. Reading of articles published
+prior to 1996 tends to be in print, probably
+reflecting the lower availability of earlier
+content in electronic databases. Access to
+electronic versions of articles has an important effect on readers’ time, since accessing
+library collections remotely saves them time.
+Information-seeking for research, teaching,
+and other purposes
+Articles are read for many reasons such
+as conducting research, teaching, writing
+(articles, reports, proposals, etc.), current
+awareness (keeping up with the literature),
+for one’s continuing education and for other
+purposes (e.g. administration, making presentations, or advising others). Readers’
+information-seeking patterns tend to vary
+
+depending on whether the information is
+read for research, teaching, or current
+awareness (and continuing education). For
+example, the way in which readers became
+aware of the articles they read varies substantially between these three purposes of
+reading (Table 5). Some browsing is done for
+research (30.9%), but most articles read for
+research are identified by other means.
+Teaching requires keeping current for
+classes, and this is reflected in the percentage of reading found by browsing (44.1%).
+As might be expected, browsing accounts for
+about 64.7% of reading for current awareness or personal continuing education.
+The source from which articles are
+obtained also varies according to the purposes for which the information is read
+(Table 6). Libraries are the most common
+source for all three purposes above. The
+library is a particularly important source for
+research (64.7% of reading). This is because
+articles generally found from searching, citations, and other persons are older articles
+which, when identified, need to be located
+and then obtained (for which libraries are
+well suited).
+The source format of the articles read for
+these three purposes (Table 7) reflects the
+means used to become aware of them, not
+the final format when reading. Most brows-
+
+Table 5. How readers learn about articles read for research, teaching and current awareness (n = 881)
+Purpose of reading
+Research
+Teaching
+Current awareness
+All
+a
+
+How readers became aware of articles (%)
+Browsing
+
+Searching
+
+Citations
+
+Persons
+
+Total
+
+30.9
+44.1
+64.7
+35.7
+
+29.7
+25.3
+14.3
+26.7
+
+21.2
+12.2
+2.5
+15.8
+
+18.3
+18.3
+18.5
+17.6
+
+101
+99.9
+100
+95.8a
+
+Less than 100% because ‘other’ purposes not included.
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Donald W. King et al.
+
+136
+
+137
+
+Table 6. Sources of articles read for research, teaching and current awareness (n = 883)
+Purpose of reading
+Research
+Teaching
+Current awareness
+All
+
+Source of last-read article (%)
+Personal subscription
+
+Library-provided
+
+Other
+
+Total
+
+17.1
+33.1
+38.9
+32.6
+
+64.7
+47.5
+39.7
+52.0
+
+18.2
+19.4
+21.4
+15.4
+
+100
+100
+100
+100
+
+Table 7. Source format of articles read for research, teaching, and current awareness purposes
+(n = 881)
+Purpose of reading
+Research
+Teaching
+Current awareness
+All
+
+Source format of last-read article (%)
+Print
+
+Electronic
+
+Total
+
+37.5
+50.6
+60.8
+45.6
+
+62.5
+49.4
+39.2
+54.4
+
+100
+100
+100
+100
+
+ing is from personal subscriptions which are
+read in print, and this is clearly reflected in
+the percentage of reading from print versions for all three purposes (see Table 5).
+Value of scholarly journals
+There are many ways to assess the value of
+information services and products. For
+example, some equate value to the valueadded attributes of the service or product.30
+Here value is described from three perspectives. Machlup31 describes the value of information in two ways:
+앫 Purchase or exchange value: what one is
+
+willing to pay in time and/or money for
+the information found in journals.
+앫 Use value: the favorable consequences
+derived from reading and using the information.
+In the following section, purchase value is
+related to the time readers spend reading
+articles; they would not devote this time if
+the information did not have some value to
+them. It also reflects the price paid for
+personal subscriptions. Use value can be
+characterized in many ways. One indicator
+of the value of articles is the number of times
+they are cited. The purposes of reading, and
+the importance of the information for these
+purposes, are other indicators of use value. A
+
+third perspective for assessing value is contingent valuation, which is an economic
+method used to assess the benefits of
+non-priced goods and services (e.g. journals
+or library services); this is done by examining
+the implication of not having the product or
+service.32,33 A more in-depth discussion of
+value is given by Tenopir and King.5,34
+Purchase value of scholarly journals
+One indicator of the value of information
+services and products is what users are willing to pay for them in their time and/or
+money. As we have seen, faculty readers
+spend on average nearly 150 hours per year
+in information-seeking and reading. There is
+very little difference in the time spent per
+article reading of print versions compared
+with electronic (32.9 minutes for print vs.
+33.4 for electronic), and the time spent
+identifying and obtaining print and electronic versions of articles only differs by
+about one or two minutes per article when
+all sources are considered together. Thus one
+could conclude that there is little difference
+in the price readers are willing to pay in their
+time for print and electronic versions. However, the time spent reading library-provided
+articles (an average of 35.4 minutes) is
+somewhat higher than that spent on personal subscriptions (27.9 minutes). About
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+one indicator of
+the value of
+articles is the
+number of
+times they are
+cited
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Table 8. Average time (minutes) spent reading an article obtained from personal subscriptions or
+libraries, by age of article (n = 1,087)
+
+more time is
+spent reading
+for research
+and writing
+than for other
+purposes
+
+Year published
+
+All sources
+
+2005
+2004
+2001–3
+Prior to 2001
+
+30.1
+33.6
+33.6
+41.1
+
+Source of last-read article (%)
+
+34 minutes per article are spent reading
+items obtained from other sources.
+There are several reasons that readers
+spend less time reading articles from personal subscriptions. One is that much of the
+reading of personal subscriptions is done for
+current awareness, keeping up, or for personal continuing education (22.7% of
+personal subscription reading). This type of
+information-seeking often involves scanning
+of articles, which does not take much time
+per reading; on the other hand, when a faculty member searches for information there
+is usually a specific purpose in mind, which
+leads to more in-depth reading. For example,
+38% of articles found by browsing are read
+for 15 minutes or less, versus 31% of articles
+found by searching.
+Most (75.6%) articles found by searching
+are obtained from library-provided means.
+This is because articles identified in this way
+often need to be located and then obtained,
+and the most logical source is the library.
+Furthermore, more time is spent reading
+older articles, as shown in Table 8.
+
+Personal subscription
+
+Library-provided
+
+26.8
+32.3
+25.7
+38.5
+
+31.8
+34.2
+35.5
+42.8
+
+The purchase value indicated by time
+spent reading also varies depending on purpose, as shown in Figure 14. More time is
+spent reading for the purpose of conducting
+research and writing than for other purposes,
+which suggests that this information is more
+valuable to the readers for these purposes.
+Not surprisingly, the least time is spent reading for current awareness.
+Use value of scholarly articles
+Faculty members were asked whether they
+had received any awards or special recognition in the past two years for their research
+or other profession-related contributions.
+About one-third of the faculty indicated
+they had received such recognition. Those
+who had been recognized averaged 23 readings of scholarly articles in the past month,
+compared with 18.5 readings by those who
+had not. The annual time spent reading was
+159 hours for the award-winners and 119
+hours for the remainder. These results demonstrate that achievers tend to read more,
+
+Figure 14. Average
+time per article spent
+reading for various
+purposes (n = 1,059).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Donald W. King et al.
+
+138
+
+139
+
+Figure 15. Number of
+publications authored
+in the past two years
+(n = 1,012).
+
+and to spend more time reading articles.
+This, of course, does not mean that if you
+just read more you will receive awards!
+Faculty frequently publish as part of their
+responsibilities; the average number of publications by faculty in the five surveyed
+universities in the past two years is shown
+in Figure 15. Just as in reading, scholarly
+articles also dominate authorship, again
+indicating the value of scholarly articles to
+faculty as authors as well as readers. Only
+14.3% of faculty had not authored any scholarly publications in the past two years. Most
+faculty (74.4%) had authored at least one
+scholarly article. The percentage of faculty
+that had authored at least one of the other
+publications is as follows: chapters in scholarly books, proceedings, etc. (40.3%), nonrefereed articles (31.0%), and books (9.7%).
+Authorship is one indicator of faculty
+output (or productivity). An indicator of the
+
+value of scholarly journal information is
+therefore whether the amount of reading
+is related to authorship. Unfortunately,
+respondents were not asked about the number of co-authors, so the output cannot be
+weighted.33 However, the overall authorship
+is definitely related to reading, as shown in
+Figure 16: those who publish read more than
+those who do not. While one responsibility
+of faculty is to publish, the fact that those
+who do so (in any type of publication) tend
+to read more articles than those who do not
+is an indication that they find articles to be
+of particular use.
+
+achievers tend
+to read more,
+and to spend
+more time
+reading articles
+
+Contingent valuation
+Contingent valuation is an economic
+method used to assess the benefits of nonpriced goods and services, by examining the
+implications of not having that product or
+Figure 16. Average
+number of articles
+read in the past
+month by faculty who
+had and had not
+published in the
+past two years
+(n = 1,012).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Donald W. King et al.
+
+service.33,34 The faculty survey addressed
+contingent valuation using the following set
+of questions:
+Thinking back to the source of the [lastread] article, where would you obtain the
+information if that source were not available?
+(a) I would not bother getting the information
+(b) I would obtain the information from
+another source. Please specify the
+source__
+If b) is checked:
+
+the current cost
+in reader time
+to identify and
+obtain articles
+is about 28
+hours
+
+In order to obtain the same information, if
+this source were not available, I would expect to spend ___ minutes of time and/or
+$___. (If the answer is zero, please enter
+‘0’ instead of leaving blank.)
+A total of 1,098 of 1,307 faculty members
+answered this question.
+The contingent valuation analysis estimates how much it would cost readers in
+their time and/or money to use alternative
+sources, if they did not have the resources
+they used to obtain their most recently read
+articles. The net benefit of having such
+sources is found by subtracting the current
+cost from the alternative cost, which is a
+measure of contingent valuation.
+Faculty reported that they would not
+bother getting the information for 19% of
+the readings. (This is typical of most other
+surveys that asked this question, dating back
+to the mid-1970s.) The remaining readers
+indicated they would spend an average of
+about 32 minutes and $8.20 per reading to
+obtain the information from another source;
+the maximum time reported was about four
+hours, and the maximum cost about $250
+(although only about one-third of respondents would spend any money). With an
+average of 194 (i.e. 0.81 × 240) readings per
+year in which alternative sources are sought,
+the average annual cost in time is 103 hours
+per faculty member (i.e. 194 × 32 minutes/
+60), and in money about $1,590 (i.e. 194 ×
+$8.20). The current cost in reader time to
+identify and obtain articles is about 28
+hours, i.e. 15.5 total hours browsing and
+searching; in addition there are costs for
+appropriate discussions with colleagues and
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+locating, photocopying, and downloading
+print, etc. These costs, based on another
+study, come to 12.5 hours and $67 for
+photocopying and $60 for downloading and
+printing.35,36 Therefore, it would cost faculty
+about 75 more hours to obtain the information and $1,463 in other costs (i.e. $1,590 –
+$127) if articles were not available.
+This analysis is more meaningful when
+examining the sources used. For example, we
+may examine the contingent valuation of
+library-provided access to articles. Faculty
+read an average of 125 articles from
+library-provided sources, and they said they
+would seek alternative sources for 99 of
+these if they were not available from the
+library (i.e. 79% of these readers said they
+would use an alternative source); the figures
+below reflect the costs associated with those
+125 readings only. The cost of using alternatives is estimated to be an average of 36
+minutes per article in the reader’s time and
+about $10.00 per article in money expended.
+Therefore, the total annual cost to a faculty
+member of using alternative sources could be
+as high as 59 hours in time plus $990 for subscriptions, travel, communication, etc. The
+current cost to readers of obtaining this
+information from library-provided articles is
+about 10 hours per reader, with a cost (to
+libraries) of $160 per faculty member.36 Thus
+the library collection saves the university 49
+hours of time and $830 for subscriptions,
+etc., per faculty member.
+Because faculty can access and read
+library collections remotely, they save an
+average of about 7 hours annually through
+no longer having to visit the library; previously, the time cost would have been 17
+hours. In other studies32,33,36,37 in which
+detailed library costs were established and a
+dollar value placed on faculty time, the
+return on the university’s investment (ROI)
+was estimated to be between $2.9 and $4.4
+for every dollar expended on the library budget. At the University of Illinois, for
+example, there was estimated to be $4.38
+returned in grants for every dollar expended
+on the library. This was estimated by multiplying the number and dollar amounts of
+grants received by university faculty by
+the percentage of those grant proposals
+that included citations from the university
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+140
+
+library, and comparing that figure with the
+budget expenditures on the library.37
+Open access and information-seeking
+patterns
+There is a great deal of interest in the provision of open access (OA) to scholarly
+research articles, either through publication
+in OA journals (sometimes funded by
+author-side payments), or through making
+copies of articles (often in a pre-publication
+version) available in institutional or subject-based repositories and/or on author
+websites; in the latter case, publisher policies
+sometimes require an embargo period, such
+as six months following publication, before
+the article may be made freely available. The
+surveys did not isolate which articles (or
+journals) read are OA by either definition –
+readers may not know whether an article is
+open access. However, some articles read by
+the survey respondents are likely to have
+been OA: e.g. free Web journals; electronic
+copies obtained from colleagues, authors, or
+others; electronic preprint copies; copies
+from author or other websites. The information-seeking and reading patterns involving
+these articles are potential indicators of
+‘open access’ patterns. In particular, the
+authors examined how readers became
+aware of such articles, the age of the articles
+read, their sources, their format, the purpose
+for which they were read them, how reading
+affected these purposes, and the time spent
+reading these articles.
+The ways in which readers learned about
+
+141
+
+Table 9. Age of ‘open access’ and other articles last read (n = 1,094)
+Age of article
+
+OA articles (%)
+
+Other articles (%)
+
+2005
+2004
+2001–3
+1996–2000
+Prior to 1996
+Total
+
+53.5
+14.9
+21.1
+5.3
+5.2
+100
+
+44.4
+18.8
+17.4
+9.1
+10.3
+100
+
+these articles are shown in Figure 17. ‘OA’
+articles tend to be more frequently identified
+through searching or through information
+from another person.
+OA articles tend to be much newer than
+the other articles read (Table 9). No OA
+articles read by survey respondents were
+published prior to 1987, although 5.1% of
+other articles were published prior to that
+time. It is not clear to what extent OA
+authors archive their articles in their
+websites or institutional repositories some
+time after publication; this would have a
+bearing on the age at which OA articles are
+read.
+OA articles are more likely to be read on a
+computer screen than other articles (42.3%
+of readings vs. 29.2%). Perhaps for this
+reason, they are slightly less likely to be read
+with great care (39.3% vs. 43.3%) and less
+time is spent reading them (30 vs. 32 minutes). On the other hand, readers require
+less time to obtain the OA articles (4.5 minutes vs. 5.7 minutes). The OA articles are
+read for virtually the same purposes as other
+
+OA articles
+tend to be
+much newer
+than the other
+articles read
+
+Figure 17. How
+faculty became aware
+of the last ‘open
+access’ and other
+articles they read
+(n = 1,059).
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+articles, and the impact on these purposes is
+almost exactly the same.
+Conclusion
+
+authors of all
+types of
+publications
+tend to read
+journal articles
+more than do
+non-authors
+
+The surveys of faculty in five US universities
+provide abundant evidence of the continued
+substantial usefulness and value of scholarly
+journals and articles.
+앫 There is estimated to be an average of 240
+readings per faculty per year.
+앫 Faculty average about 130 hours per year
+reading scholarly articles – time they
+would be unwilling to spend if the information was not valuable to them.
+앫 Journal articles are observed to be by far
+the most used source of information by
+faculty.
+앫 Faculty author more refereed scholarly articles than any other type of publication;
+another study33 indicates that they spend
+nearly 100 hours per article doing so.
+Authors of all types of publications tend to
+read journal articles more than do nonauthors.
+앫 Most reading (80.4% of readings) is for
+research, teaching or writing; readers indicate that over one-third of readings are
+‘absolutely essential’ to achieving such
+purposes.
+앫 The last reading is often said to affect
+these purposes by inspiring new thinking
+or ideas; improving the results; narrowing,
+broadening or changing the focus of
+research, teaching, etc.; or saving time or
+other resources.
+앫 Faculty whose research or other profession-related contributions has recently
+been recognized through awards or other
+means read more scholarly journal articles
+than those who have not received such
+recognition.
+These indicators of the usefulness and
+value of scholarly journals and articles are
+typical of the results observed over the past
+three decades for faculty as well as professionals working in other settings.29
+Every article reading is unique in its combination of information-seeking and reading
+pattern (i.e. time spent obtaining and reading, means of learning about the article, age
+of the article, source of the article, location
+where read, format of the article, past know-
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+ledge of information found in the article,
+prior reading of the article, principal purpose
+of reading, and outcome from reading).
+Given this complexity of article informationseeking and reading patterns, it makes sense
+to observe aspects of each respondent’s most
+recent reading of an article. Analysis of these
+patterns leads to the following conclusions:
+앫 Faculty prefer to read print versions of
+personal subscriptions.
+앫 Library journal collections are primarily
+read in electronic versions away from the
+library.
+앫 Readers become aware of articles through
+many means: browsing a journal issue or
+table of contents is the most frequent, followed by searching by subject or author
+name, through information from another
+person, or through a citation in another
+publication.
+앫 About half of articles found by browsing
+are from print versions of personal subscriptions; about one-fourth are from
+electronic versions from library or departmental collections.
+앫 Most searching is from electronic abstracting and indexing (A&I) services (58.3%
+of readings from searching), followed by
+online journal collections (20.2%); only
+14.0% are found through Web search
+engines.
+앫 Over half of readings are from libraryprovided articles, including school or department collections and articles obtained
+from interlibrary borrowing or document
+delivery (which are mostly electronic versions – 71.2%). About one-third of all
+readings are from personal subscriptions
+(which are mostly print versions – 87.5%).
+앫 Overall, over half of readings are from
+electronic versions (54.4% of all readings)
+of which most are downloaded and
+printed out for reading (68.7% of readings
+from electronic versions).
+앫 About half (50.2%) of readings are from
+articles published in the past 12 months.
+Articles have a long ‘half-life’; some articles read are many years old (e.g. 2.8%
+over 25 years old).
+앫 In the first year after publication articles
+are read about equally in print and electronic versions, but from the second year
+to 10 years old, about two-thirds of read-
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Donald W. King et al.
+
+142
+
+ings are from electronic versions. Many of
+the print readings in the first year are from
+browsing print personal subscriptions. After the tenth year, print versions begin to
+dominate, indicating that retrospective
+conversion of journal backfiles is still far
+from complete.
+앫 Articles found by browsing are mostly recent, but older articles predominate in
+readings from searching, and even more so
+for those from citations.
+앫 Articles obtained from personal subscriptions are mostly recent; most of these
+readings are found by browsing for the
+purpose of keeping current. The percentage obtained from library-provided articles
+increases to nearly three-fourths of readings of articles over 10 years old. The
+percentage of articles obtained from other
+sources remains about the same over age
+(about 20%).
+앫 The way that older articles are identified,
+and how they are obtained, is important
+because older articles tend to be rated as
+more useful in terms of purpose of use and
+as measured by time spent reading.
+It is clear that faculty members locate articles using a variety of methods (browsing,
+searching, etc.) and from a variety of sources
+(library-provided, personal subscriptions,
+open Web, colleagues, etc.). The library is
+the main source for electronic articles, since
+most readings from library collections are
+from electronic versions. Readings from personal subscriptions are still mostly in print.
+The fact that there is no single method of
+identifying or obtaining articles is important
+to both publishers and librarians. Publishers
+must realize that print personal subscriptions
+are still important, particularly for browsing
+and reading for current awareness; readings
+for research and writing are more often of
+older articles, and are more likely to come
+from the library collection. The typical faculty member’s reading patterns are made up
+of a range of strategies, sources, and formats.
+Articles are an important part of faculty
+members’ research, teaching, and other work
+needs, and they must have access to them in
+a variety of ways.
+References
+1. Tenopir, C., Baker, G., Read, J, Manoff, M.,
+
+McClannah, K., Nicholas, D. and King, D.W.
+MaxData: A Project to Help Librarians Maximize
+E-Journal Usage Data in Usage Statistics of E-Serials.
+New York, Haworth Press, 2007.
+2. Garvey, W.D., Lin, N. and Nelsen, C.E. 1970. Communication in the physical and social sciences. Science, 170: 1166–73.
+http://dx.doi.org/10.1126/science.170.3963.1166
+3. Garvey, W.D. and Griffith, B.C. 1972. Communication and information processing within scientific disciplines: empirical findings for psychology. Information
+Storage & Retrieval, 8: 123–6.
+http://dx.doi.org/10.1016/0020–0271(72)90041–1
+4. Crawford, S.Y., Hurd, J.M. and Weller, A.C. From Print
+to Electronic: The Transformation of Scientific Communication. Medford NJ, Information Today, 1996.
+5. Tenopir, C. and King, D.W. Towards Electronic Journals: Realities for Scientists, Librarians, and Publishers.
+Washington DC, Special Libraries Association, 2000.
+6. King, D.W. and Tenopir, C. Using and reading scholarly literature. In Williams, M.E. (ed.), Annual Review
+of Information Science and Technology, vol. 34, pp.
+423–77. Medford NJ, Information Today, 2001.
+7. Tenopir, C. Use and Users of Electronic Library
+Resources: An Overview and Analysis of Recent Research
+Studies. Washington DC, Council on Library and
+Information Resources, 2003.
+8. Friedlander, A. and Bessette, R.S. The Implications of
+Information Technology for Scientific Journal Publishing:
+A Literature Review. NSF 03-323. Washington, DC,
+National Science Foundation, Division of Science
+Resources Statistics. 2003. Available at: http://www.
+nsf.gov/statistics/nsf03323/pdf/nsf03323.pdf
+9. Tenopir, C. and King, D.W. Communication Patterns of
+Engineers. New York, Wiley-IEEE Press, 2004.
+10. Rowlands, I. 2007. Electronic journals and user
+behavior: a review of recent research. Library & Information Science Research, 29: 369–96.
+http://dx.doi.org/10.1016/j.lisr.2007.03.005
+11. Agarwal, R. and Jayesh P. 1999. Are individual differences germane to the acceptance of new information
+technologies? Decision Sciences, 30: 361–91.
+http://dx.doi.org/10.1111/j.1540–5915.1999.tb01614.
+x
+12. Courtright, C. Context in information behavior
+research. In Cronin, B. (ed.), Annual Review of Information Science and Technology, vol. 41, pp. 273–306.
+Medford NJ, Information Today, 2007.
+13. Vakkari, P. Task-based information searching. In
+Cronin, B. (ed.), Annual Review of Information Science
+and Technology, vol. 37, pp. 413–64. Medford NJ,
+Information Today, 2003.
+14. Solomon, P. Discovering information in context. In
+Cronin, B. (ed.), Annual Review of Information Science
+and Technology, vol. 36, pp. 229–64. Medford NJ,
+Information Today, 2002.
+15. Cool, C. The concept of situation in information science. In Williams, M.E. (ed.), Annual Review of Information Science and Technology, vol. 35, pp. 5–42.
+Medford NJ, Information Today, 2001.
+16. Talja, S. and Maula, H. 2003. Reasons for the use
+and non-use of electronic journals and databases: a
+domain analytic study in four scholarly disciplines.
+Journal of Documentation, 59: 673–91.
+http://dx.doi.org/10.1108/00220410310506312
+17. Fry, J. and Talja, S. 2004. The cultural shaping of
+scholarly communication: explaining e-journal use
+within and across academic fields. Proceedings of the
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+143
+
+print personal
+subscriptions
+are still
+important,
+particularly
+for current
+awareness
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+Donald W. King et al.
+
+American Society for Information Science and Technology, 41: 20–30.
+http://dx.doi.org/10.1002/meet.1450410103
+18. University College London (UCL), Centre for Information Behaviour and the Evaluation of Research
+(CIBER). Information Behaviour of the Researcher of
+the Future. London, British Library/JISC, 2008,
+http://www.bl.uk/news/pdf/googlegen.pdf
+19. Tenopir, C., King, D.W., Spencer, J. and Wu, L. Variations in article seeking and reading patterns of
+academics: what makes a difference? Library & Information Science Research, submitted.
+20. Raza, M.M. and Upadhyay, A.K. 2006. Usage of
+e-journals in Aligarh Muslim University: a study.
+International Information & Library Review, 38: 170–9.
+http://dx.doi.org/10.1016/j.iilr.2006.06.009
+21. Flanagan, J.C. 1954. The critical incident technique.
+Psychology Bulletin, 5: 327–58.
+http://dx.doi.org/10.1037/h0061470
+22. Griffiths, J.M. and King, D.W. A Manual on the Evaluation of Information Centers and Services. NATO,
+AGARD. New York, American Institute of Aeronautics and Astronomics, Technical Information Service,
+1991.
+23. Griffiths, J.M. and King, D.W. Special Libraries:
+Increasing the Information Edge. Washington, DC, Special Libraries Association, 1993.
+24. King, D.W., McDonald, D.D. and Roderer, N.K. Scientific Journals in the United States: Their Production, Use
+and Economics. Stroudsburg, PA, Hutchinson Ross
+Publishing Company (Division of Academic Press),
+1981.
+25. Tenopir, C., King, D.W., Clarke, M.T., Na, K. and
+Zhou, X. 2007. Journal reading patterns and preferences of pediatricians. Journal of the Medical Library
+Association, 95: 56–63.
+26. Tenopir, C., King, D.W., Boyce, P., Grayson, M. and
+Paulson, K. 2005. Relying on electronic journals:
+reading patterns of astronomers. Journal of the American Society for Information Science and Technology, 56:
+786–802.
+http://dx.doi.org/10.1002/asi.20167
+27. Tenopir, C., King, D.W. and Bush, A. 2004. Medical
+faculty’s use of print and electronic journals: changes
+over time and comparison with other scientists. Journal of the Medical Library Association, 92: 233–41,
+preprint available at http://web.utk.edu/~tenopir/
+eprints/tenopir_jmla_article_042203.pdf
+28. Tenopir, C., King, D.W., Boyce, P., Grayson, M.,
+Zhang, Y. and Ebuen, M. 2003. Patterns of journal use
+by scientists through three evolutionary phases. D-Lib
+9. Available at http://www.dlib.org/dlib/may03/king/
+05king.html
+29. Tenopir, C., King, D.W., Edwards, S. and Wu, L. Electronic journals and changes in scholarly article seeking and reading patterns. ASLIB Proceedings, in press.
+30. Taylor, R.S. Value-added Processes in Information Systems. Norwood, NJ, Ablex Publishing Corporation,
+1986.
+31. Machlup, F. 1979. Use, value, and benefits of knowledge. Reprinted 1993 in Knowledge: Creation, Diffusion, Utilization, 14: 448–66.
+32. Aerni, S. and King, D. W. Contingent Valuation in Academic and Public Libraries. ARL Library Assessment
+Conference, Charlottesville, VA, September 2006.
+Available at http://www.arl.org/arldocs/stats/stats
+events/laconf/2006/Aerni.ppt
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+33. King, D.W., Aerni, S., Brody, F., Herbision, M. and
+Knapp, A. The Use and Outcomes of University Library
+Print and Electronic Collections. Pittsburgh, PA, The
+Sara Fine Institute for Interpersonal Behavior and
+Technology, 2004. Available at http://web.utk.edu/
+~tenopir/research/pitts/Pitt_Use_Final.pdf
+34. Tenopir, C. and King, D.W. 2007. Perceptions of value
+and value beyond perceptions: measuring the quality
+and value of journal article readings. Serials, 20:
+199–207.
+http://dx.doi.org/10.1629/20199
+35. Tenopir, C. and King, D.W. 2002. Reading behavior
+and electronic journals. Learned Publishing, 15:
+259–265.
+http://dx.doi.org/10.1087/095315102760319215
+36. King, D.W., Aerni, S., Brody, F., Herbision, M. and
+Knapp, A. Comparative Costs of the University of Pittsburgh Electronic and Print Library Collections. Pittsburgh PA, The Sara Fine Institute for Interpersonal
+Behavior and Technology, 2004. Available at http://
+c r a s h . ex p . s i s . p i t t . e d u / s f i / d o c u m e n t s / s f i - p u b
+20040405a.pdf
+37. Luther, J. University Investment in the Library: What’s
+the Return? A Case Study at the University of Illinois at
+Urbana-Champaign. Library Connect White Paper #1,
+2008. San Diego, CA, Elsevier, 2008. Available at
+http://libraryconnect.elsevier.com/whitepapers/0108/l
+cwp010801.html
+
+Donald W. King
+School of Information and Library Science
+University of North Carolina at Chapel Hill
+216 Lenoir Drive, CB#3360
+100 Manning Hall
+Chapel Hill, NC, 27599–3360, USA
+Email: donaldwking@gmail.com
+Carol Tenopir
+School of Information Sciences
+The University of Tennessee
+451 Communications Building
+1345 Circle Park Drive
+Knoxville, TN 37996–0341, USA
+Email: ctenopir@utk.edu
+Songphan Choemprayong
+School of Information and Library Science
+University of North Carolina at Chapel Hill
+216 Lenoir Drive, CB#3360
+100 Manning Hall
+Chapel Hill, NC, 27599–3360, USA
+Email: songphan@unc.edu
+Lei Wu
+School of Information Sciences
+The University of Tennessee
+451 Communications Building
+1345 Circle Park Drive
+Knoxville, TN 37996–0341, USA
+Email: lwu9@utk.edu
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+144
+
+LEARNED PUBLISHING
+
+VOL. 22
+
+NO. 2
+
+APRIL 2009
+
+17414857, 2009, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1087/2009208 by Seoul National University, Wiley Online Library on [08/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ALPSP award
+
+145
+Scholarly journal information-seeking and reading patterns of faculty at five US universities
+
+
