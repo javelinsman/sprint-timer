@@ -10,5 +10,8 @@ export default defineConfig({
       allow: ['..']
     }
   },
-  publicDir: '../'
+  publicDir: 'public',
+  build: {
+    outDir: '../'
+  }
 })

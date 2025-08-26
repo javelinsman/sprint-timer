@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="56" fill="#E0E7FF" stroke="#6366F1" stroke-width="4"/>
+  
+  <!-- Inner circle -->
+  <circle cx="64" cy="64" r="48" fill="#FFFFFF"/>
+  
+  <!-- Timer progress arc -->
+  <path d="M 64 16 A 48 48 0 0 1 100.97 40" 
+        fill="none" 
+        stroke="#10B981" 
+        stroke-width="6" 
+        stroke-linecap="round"/>
+  
+  <!-- Clock hands -->
+  <!-- Hour hand -->
+  <line x1="64" y1="64" x2="64" y2="40" 
+        stroke="#6366F1" 
+        stroke-width="5" 
+        stroke-linecap="round"/>
+  
+  <!-- Minute hand -->
+  <line x1="64" y1="64" x2="88" y2="64" 
+        stroke="#8B5CF6" 
+        stroke-width="4" 
+        stroke-linecap="round"/>
+  
+  <!-- Center dot -->
+  <circle cx="64" cy="64" r="5" fill="#4F46E5"/>
+  
+  <!-- Timer button on top -->
+  <rect x="58" y="4" width="12" height="16" rx="2" fill="#6366F1"/>
+  <rect x="54" y="2" width="20" height="6" rx="2" fill="#8B5CF6"/>
+</svg>
