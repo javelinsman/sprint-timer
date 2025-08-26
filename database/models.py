@@ -78,7 +78,7 @@ class ReviewSession(BaseModel):
 class ReviewNote(BaseModel):
     id: Optional[str] = None
     paper_id: str
-    session_id: str
+    session_id: Optional[str] = None
     content: str
     time_spent: int  # in seconds
     created_at: datetime = Field(default_factory=datetime.utcnow)

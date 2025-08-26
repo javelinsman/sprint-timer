@@ -286,19 +286,8 @@ async def mark_paper_reviewed(session_id: str, paper_id: str):
 
 
 @app.post("/api/review-notes/")
-async def create_review_note(
-    paper_id: str,
-    session_id: str,
-    content: str,
-    time_spent: int
-):
+async def create_review_note(note: ReviewNote):
     """Create a review note"""
-    note = ReviewNote(
-        paper_id=paper_id,
-        session_id=session_id,
-        content=content,
-        time_spent=time_spent
-    )
     note_id = await review_service.create_note(note)
     return {"note_id": note_id}
 
@@ -315,6 +304,24 @@ async def get_session_review_notes(session_id: str):
     """Get all review notes for a session"""
     notes = await review_service.get_notes_for_session(session_id)
     return notes
+
+
+@app.put("/api/review-notes/{note_id}")
+async def update_review_note(note_id: str, content: str):
+    """Update a review note"""
+    success = await review_service.update_note(note_id, content)
+    if not success:
+        raise HTTPException(status_code=404, detail="Note not found")
+    return {"message": "Note updated successfully"}
+
+
+@app.delete("/api/review-notes/{note_id}")
+async def delete_review_note(note_id: str):
+    """Delete a review note"""
+    success = await review_service.delete_note(note_id)
+    if not success:
+        raise HTTPException(status_code=404, detail="Note not found")
+    return {"message": "Note deleted successfully"}
 
 
 # Overview endpoint

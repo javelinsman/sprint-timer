@@ -90,8 +90,6 @@ function Gating() {
   }
 
   const rejectPaper = async (paperId) => {
-    if (!confirm('Are you sure you want to reject this paper? It will be marked as rejected and hidden from the gating view.')) return
-    
     try {
       // Mark as rejected using the new endpoint
       const response = await fetch(`${API_BASE}/api/papers/${paperId}/reject`, { 
@@ -267,17 +265,6 @@ function Gating() {
                   >
                     Import
                   </button>
-                  
-                  {paper.url && (
-                    <a
-                      href={paper.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="px-4 py-1 bg-gray-600 hover:bg-gray-700 rounded text-sm text-center"
-                    >
-                      View
-                    </a>
-                  )}
                   
                   {paper.pdf_url && (
                     <a

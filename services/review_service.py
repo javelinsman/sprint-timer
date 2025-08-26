@@ -111,10 +111,14 @@ class ReviewService:
         notes = []
         async for note in db.review_notes.find({"paper_id": paper_id}).sort("created_at", -1):
             note["_id"] = str(note["_id"])
-            # Get session info
-            session = await db.review_sessions.find_one({"_id": ObjectId(note["session_id"])})
-            if session:
-                note["session_name"] = session.get("name", "")
+            # Get session info if session_id exists
+            if "session_id" in note and note["session_id"]:
+                try:
+                    session = await db.review_sessions.find_one({"_id": ObjectId(note["session_id"])})
+                    if session:
+                        note["session_name"] = session.get("name", "")
+                except:
+                    pass
             notes.append(note)
         return notes
     
@@ -144,6 +148,15 @@ class ReviewService:
                 }}
             )
             return result.modified_count > 0
+        except:
+            return False
+    
+    async def delete_note(self, note_id: str) -> bool:
+        """Delete a review note"""
+        db = get_database()
+        try:
+            result = await db.review_notes.delete_one({"_id": ObjectId(note_id)})
+            return result.deleted_count > 0
         except:
             return False
     

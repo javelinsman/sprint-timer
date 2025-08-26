@@ -6,12 +6,15 @@ function PaperList() {
     status: '',
     queryTag: '',
     hasPdf: '',
-    hasSummary: ''
+    hasSummary: '',
+    showRejected: false
   })
   const [selectedPapers, setSelectedPapers] = useState(new Set())
   const [expandedPaper, setExpandedPaper] = useState(null)
   const [uploadingPdf, setUploadingPdf] = useState(null)
   const [reviewNotes, setReviewNotes] = useState({})
+  const [editingNote, setEditingNote] = useState(null)
+  const [editNoteContent, setEditNoteContent] = useState('')
 
   const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000'
 
@@ -28,7 +31,13 @@ function PaperList() {
       if (filter.hasSummary !== '') params.append('has_summary', filter.hasSummary)
       
       const response = await fetch(`${API_BASE}/api/papers/?${params}`)
-      const data = await response.json()
+      let data = await response.json()
+      
+      // Filter out rejected papers unless explicitly showing them
+      if (!filter.showRejected) {
+        data = data.filter(paper => paper.status?.toUpperCase() !== 'REJECTED')
+      }
+      
       setPapers(data)
       
       // Fetch review notes for papers
@@ -142,6 +151,66 @@ function PaperList() {
     return colors[upperStatus] || 'bg-gray-600'
   }
 
+  const deleteNote = async (noteId, paperId) => {
+    if (!confirm('Are you sure you want to delete this note?')) return
+    
+    try {
+      const response = await fetch(`${API_BASE}/api/review-notes/${noteId}`, {
+        method: 'DELETE'
+      })
+      
+      if (response.ok) {
+        // Update local state
+        setReviewNotes(prev => ({
+          ...prev,
+          [paperId]: prev[paperId].filter(note => note._id !== noteId)
+        }))
+      } else {
+        alert('Failed to delete note')
+      }
+    } catch (error) {
+      console.error('Error deleting note:', error)
+      alert('Error deleting note')
+    }
+  }
+
+  const startEditNote = (note) => {
+    setEditingNote(note)
+    setEditNoteContent(note.content)
+  }
+
+  const saveEditedNote = async () => {
+    if (!editingNote) return
+    
+    try {
+      const response = await fetch(`${API_BASE}/api/review-notes/${editingNote._id}?content=${encodeURIComponent(editNoteContent)}`, {
+        method: 'PUT'
+      })
+      
+      if (response.ok) {
+        // Update local state
+        setReviewNotes(prev => {
+          const paperId = editingNote.paper_id
+          return {
+            ...prev,
+            [paperId]: prev[paperId].map(note => 
+              note._id === editingNote._id 
+                ? { ...note, content: editNoteContent }
+                : note
+            )
+          }
+        })
+        setEditingNote(null)
+        setEditNoteContent('')
+      } else {
+        alert('Failed to update note')
+      }
+    } catch (error) {
+      console.error('Error updating note:', error)
+      alert('Error updating note')
+    }
+  }
+
   return (
     <div className="p-6">
       <div className="flex items-center justify-between mb-6">
@@ -151,16 +220,6 @@ function PaperList() {
           {selectedPapers.size > 0 && (
             <>
               <span className="text-blue-400">{selectedPapers.size} selected</span>
-              <button
-                onClick={() => {
-                  // Pass selected papers to viewer
-                  const selectedIds = Array.from(selectedPapers).join(',')
-                  window.location.hash = `#viewer?papers=${selectedIds}`
-                }}
-                className="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded"
-              >
-                View Selected
-              </button>
               <button
                 onClick={deleteSelectedPapers}
                 className="px-4 py-2 bg-red-600 hover:bg-red-700 rounded"
@@ -184,6 +243,7 @@ function PaperList() {
             <option value="imported">Imported</option>
             <option value="pdf_ready">PDF Ready</option>
             <option value="summarized">Summarized</option>
+            <option value="rejected">Rejected</option>
           </select>
           
           <input
@@ -214,12 +274,23 @@ function PaperList() {
             <option value="false">No Summary</option>
           </select>
           
-          <button
-            onClick={() => setSelectedPapers(new Set())}
-            className="px-2 py-1 bg-gray-600 hover:bg-gray-500 rounded text-sm"
-          >
-            Clear Selection
-          </button>
+          <div className="flex gap-2">
+            <label className="flex items-center gap-2 text-sm">
+              <input
+                type="checkbox"
+                checked={filter.showRejected}
+                onChange={(e) => setFilter({...filter, showRejected: e.target.checked})}
+                className="w-4 h-4"
+              />
+              <span>Show Rejected</span>
+            </label>
+            <button
+              onClick={() => setSelectedPapers(new Set())}
+              className="px-2 py-1 bg-gray-600 hover:bg-gray-500 rounded text-sm"
+            >
+              Clear Selection
+            </button>
+          </div>
         </div>
       </div>
 
@@ -339,15 +410,6 @@ function PaperList() {
                       )}
                       
                       <button
-                        onClick={() => {
-                          window.location.hash = `#viewer?paper=${paper.semantic_scholar_id}`
-                        }}
-                        className="text-xs px-2 py-1 bg-gray-600 hover:bg-gray-500 rounded"
-                      >
-                        View
-                      </button>
-                      
-                      <button
                         onClick={() => deletePaper(paper.semantic_scholar_id)}
                         className="text-xs px-2 py-1 bg-red-600 hover:bg-red-700 rounded"
                       >
@@ -368,6 +430,38 @@ function PaperList() {
         )}
       </div>
       
+      {/* Edit Note Modal */}
+      {editingNote && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+          <div className="bg-gray-800 p-6 rounded-lg max-w-2xl w-full mx-4">
+            <h3 className="text-xl font-semibold mb-4">Edit Note</h3>
+            <textarea
+              value={editNoteContent}
+              onChange={(e) => setEditNoteContent(e.target.value)}
+              className="w-full h-32 px-3 py-2 bg-gray-700 text-white rounded resize-none"
+              placeholder="Enter your note..."
+            />
+            <div className="flex justify-end gap-2 mt-4">
+              <button
+                onClick={() => {
+                  setEditingNote(null)
+                  setEditNoteContent('')
+                }}
+                className="px-4 py-2 bg-gray-600 hover:bg-gray-500 rounded"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={saveEditedNote}
+                className="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded"
+              >
+                Save
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+      
       {/* Expanded Paper Details */}
       {expandedPaper && (
         <div className="mt-4 p-4 bg-gray-800 rounded-lg">
@@ -387,6 +481,42 @@ function PaperList() {
             >
               View on Semantic Scholar →
             </a>
+          )}
+          
+          {/* Display notes for expanded paper */}
+          {reviewNotes[expandedPaper.semantic_scholar_id]?.length > 0 && (
+            <div className="mt-4">
+              <h4 className="font-semibold text-sm mb-2">Review Notes:</h4>
+              <div className="space-y-2">
+                {reviewNotes[expandedPaper.semantic_scholar_id].map((note) => (
+                  <div key={note._id} className="bg-gray-700 p-3 rounded">
+                    <div className="flex justify-between items-start">
+                      <div className="flex-1">
+                        <p className="text-sm text-gray-300 whitespace-pre-wrap">{note.content}</p>
+                        <p className="text-xs text-gray-500 mt-1">
+                          {note.session_name && `Session: ${note.session_name} • `}
+                          {new Date(note.created_at).toLocaleDateString()}
+                        </p>
+                      </div>
+                      <div className="flex gap-1 ml-2">
+                        <button
+                          onClick={() => startEditNote(note)}
+                          className="text-xs px-2 py-1 bg-blue-600 hover:bg-blue-700 rounded"
+                        >
+                          Edit
+                        </button>
+                        <button
+                          onClick={() => deleteNote(note._id, expandedPaper.semantic_scholar_id)}
+                          className="text-xs px-2 py-1 bg-red-600 hover:bg-red-700 rounded"
+                        >
+                          Delete
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
           )}
         </div>
       )}
